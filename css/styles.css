@@ -1,5 +1,3 @@
-# SuperWeb-Manu
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
