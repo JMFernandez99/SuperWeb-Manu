@@ -21,3 +21,8 @@
     </script>
 </body>
 </html>
+
+# Funcionalidades
+- index.html : web home
+- welcome.html : web de benvinguda
+- Pablo.html: web de Pablo
